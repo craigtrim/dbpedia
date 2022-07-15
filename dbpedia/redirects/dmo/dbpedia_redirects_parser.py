@@ -21,8 +21,8 @@ class DBpediaRedirectsParser(BaseObject):
 
         Created:
             14-Jul-2022
-            craig@graffl.ai
-            *   https://github.com/grafflr/dbpedia/issues/1
+            craigtrim@gmail.com
+            *   https://github.com/craigtrim/dbpedia/issues/1
 
         Args:
             input_file (str): _description_

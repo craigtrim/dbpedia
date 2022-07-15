@@ -29,8 +29,8 @@ class DBpediaPageFinder(BaseObject):
 
         Created:
             14-Jul-2022
-            craig@graffl.ai
-            *   https://github.com/grafflr/dbpedia/issues/1
+            craigtrim@gmail.com
+            *   https://github.com/craigtrim/dbpedia/issues/1
         """
         BaseObject.__init__(self, __name__)
         self._auto_suggest = auto_suggest

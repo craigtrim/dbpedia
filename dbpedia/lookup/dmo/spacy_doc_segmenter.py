@@ -17,7 +17,7 @@ class SpacyDocSegmenter(BaseObject):
         """
         Created:
             14-Jul-2022
-            craig@graffl.ai
+            craigtrim@gmail.com
         """
         BaseObject.__init__(self, __name__)
         if not self.__nlp:
